@@ -2,6 +2,6 @@
 
 This is a practice merge conflict exercise for MMED 1054.
 
-Merge conflicts, DO NOT FAER THEM.
+Merge conflicts, DON'T FAER THEM.
 
 This sentence was added via the GitHub Desktop app.
